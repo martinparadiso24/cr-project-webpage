@@ -1,0 +1,43 @@
+// Seccion Musica
+.portada {
+    background-image: url(/images/portada-bg.jpg);
+}
+
+.subtitulo-vid {
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+
+.tu-encanto {
+    color: $primary-color;
+    font-size: 75px;
+    padding-top: 500px;
+}
+
+.con-fito{
+    font-size: 30px;
+}
+
+.out-now {
+    font-size: 50px;
+    margin-top: 15px;
+    background-color: $myAlpha;
+    color: $primary-color;
+}
+
+.video-tu-encanto {
+    margin-top: 20px;
+}
+// Parte de discos
+
+.cabildo-fondo{
+    background-image: url(/images/fondo-discos.jpg);
+    padding-bottom: 50px;
+}
+
+.disco-container {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}

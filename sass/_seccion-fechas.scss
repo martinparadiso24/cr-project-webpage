@@ -1,0 +1,29 @@
+// Seccion Fechas
+
+.seccion-fechas {
+    background-image: url(/images/seccion-fechas.jpg);
+
+    .table-container{
+        background-color: $transparent-gold;
+    
+        table{
+        
+            tr th {
+                    font-size: 40px;
+                    padding-bottom: 10px;
+                    padding-top: 10px;
+                }
+                td {
+                    padding-bottom: 10px;
+                    width: 250px;
+                    padding-top: 10px;
+    
+                    button {
+                    background-color: $transparent-gold;
+                    border-color: $myAlpha;
+                    padding: 5px;
+                    }
+                }
+        }
+    }
+}

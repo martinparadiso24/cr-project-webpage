@@ -1,0 +1,17 @@
+// Seccion Contacto
+
+.seccion-contacto{
+    background-image: url(/images/seccion-prensa.jpg);
+    padding-bottom: 40px;
+}
+
+.div-contacto{
+    background-color: $transparent-gold;
+    padding-bottom: 15px;
+}
+
+.form-control{
+    background-color: $myAlpha;
+    color: #ffffff;
+    border: 1px solid $transparent-gold;
+}

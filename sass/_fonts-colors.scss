@@ -1,0 +1,21 @@
+// Settings
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Dosis', sans-serif;
+}
+
+// Backgrounds
+.pic-fondo {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+// Colors
+
+$primary-color: #D7D9CE;
+$myAlpha: #04040483;
+$transparent-gold:  rgba(250, 235, 215, 0.651);

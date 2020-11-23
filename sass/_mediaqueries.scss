@@ -1,0 +1,23 @@
+@media only screen and (max-width: 424px){
+    h1{
+        font-size: 12px;
+    }
+
+    .seccion-fechas{
+        th{
+            display: none;
+        }
+        
+        td{
+            text-align: center;
+        }
+    }
+
+    .seccion-prensa {
+        
+        .row {
+        margin-right: 0px;
+        margin-left: 0px;
+        }
+    }
+}
